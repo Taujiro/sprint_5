@@ -31,3 +31,8 @@ Os gráficos foram adaptados para serem compatíveis com o Streamlit, utilizando
 
 1.  Certifique-se de ter o `streamlit` instalado (`!pip install streamlit`).
 2.  Execute as células do notebook sequencialmente. Os gráficos serão gerados no formato compatível com o Streamlit.
+
+## Links
+
+Repositório: https://github.com/Taujiro/sprint_5/
+Render: https://sprint-5-og3x.onrender.com
