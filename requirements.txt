@@ -2,4 +2,4 @@ pandas
 streamlit
 seaborn
 pathlib
-matplotlib.pyplot
+matplotlib
