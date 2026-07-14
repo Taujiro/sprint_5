@@ -1,0 +1,5 @@
+pandas
+streamlit
+seaborn
+pathlib
+matplotlib.pyplot
